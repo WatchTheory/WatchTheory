@@ -2,8 +2,10 @@
 
 I like building stuff with machine learning models, python and Java. I enjoy learning new idea's and concepts just about anywhere. I expand my brain how ever I can
 
+<!----comment ------>
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+<!----comment ------>
 
 Skills: Java/C#/ ML/ Python/ C++/HTML/ CSS/PHP
 

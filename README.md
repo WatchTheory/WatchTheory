@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kevin
 
-I like building stuff with machine learning models, python and Java. I enjoy learning new idea's and concepts just about anywhere. I expand my brain how ever I can
+I like building stuff with machine learning models, python , Javaa and SQL. I enjoy learning new idea's and concepts just about anywhere. I expand my brain how ever I can
 
 
 ![Architect Linkedin Background](https://github.com/user-attachments/assets/c7cc8ad1-564c-4e42-94c6-3460f9f89630)

@@ -13,7 +13,7 @@ I like building stuff with machine learning models, python , Javaa and SQL. I en
 - 🌱 I’m currently learning: ARIMA Models,Statistics 
 - 📫 How to reach me: KComaduran3@outlook.com
 - ⚡ Fun fact: Just like exploring
-- 💬 Ask me about: Ask me Anything
+- 💬 Ask me Anything
 
 
 ### Language I Know 

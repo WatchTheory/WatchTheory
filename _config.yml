@@ -1,7 +1,9 @@
 title: Kevin Comaduran
 #description: [A short description of your site's purpose]
 #description : text below image
-theme: pages-themes/minimal@v0.2.0
-#plugins: 
+remote_theme: pages-themes/minimal@v0.2.0
+plugins: 
+ - jekll-remote-theme
 #gem "github-pages", group: :jekyll_plugins
 #jekll-theme-minimal
+#pages-themes/minimal@v0.2.0

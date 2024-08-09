@@ -5,8 +5,8 @@ logo: images/head_cover image.jpg
 remote_theme: pages-themes/minimal@v0.2.0
 plugins: 
  - jekll-remote-theme
-Email: /images/email icon.svg <KComaduran3@outlook.com
-Email: me at &lt;i&gt;&amp;#x1F4E9;&lt;/i&gt; <KComaduran3@Outlook.com>
+#Email: /images/email icon.svg <KComaduran3@outlook.com
+#Email: me at &lt;i&gt;&amp;#x1F4E9;&lt;/i&gt; <KComaduran3@Outlook.com>
 #gem "github-pages", group: :jekyll_plugins
 #jekll-theme-minimal
 #pages-themes/minimal@v0.2.0

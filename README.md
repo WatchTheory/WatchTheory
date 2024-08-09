@@ -1,6 +1,7 @@
 
-## Aspiring Machine Learning Engineer, Data Scientist or Data Analysts
+
 # Kevin Comaduran
+Aspiring Machine Learning Engineer, Data Scientist or Data Analysts
 
 **Technical Skills :** 
 <img align="center" alt="Jupyter Notebook" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
@@ -18,8 +19,7 @@
 
 ### Contact Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kevincomaduran//)  
-
-[<img src='https://icons8.com/icon/12580/email' alt='Email' height='35'>](KComaduran3@Outlook.com)  
+Email:<KComaduran3@outlook.com>
 
 ## Education 
 

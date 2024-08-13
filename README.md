@@ -1,7 +1,8 @@
 
 
 # Kevin Comaduran
-Aspiring Machine Learning Engineer, Data Scientist or Data Analysts
+
+Bio : Former children/youth Teacher with a passion for communicating concepts to variety of audiences and a knack for creating collaborative environments. Skilled in Excel, SQL and Power BI – looking forward to using these tools to drive insights and recommendations to cross-functional teams. 
 
 **Technical Skills :** 
 <img align="center" alt="Jupyter Notebook" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
@@ -16,7 +17,6 @@ Aspiring Machine Learning Engineer, Data Scientist or Data Analysts
 <img align="center" alt="matplotlib" width="70px" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"/>
 <img align="center" alt="HTML" width="32px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
           
-
 ### Contact Me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kevincomaduran//)  
 Email:<KComaduran3@outlook.com>
@@ -26,9 +26,8 @@ Email:<KComaduran3@outlook.com>
 - <u> B.A Computer Information Systems (CIS) |  The University of Houston - Victoria (May 2022)</u>
 - <u> A.A |  Lonestar College Systems (December 2020) </u>
 
-
 ## Work Education
-**Data Analysis Using Pyspark – Coursera Project Network  (April 2024 – April 2024)**
+**Data Analysis Using Pyspark – Coursera Project Network    (April 2024 – April 2024)**
 - Processed and cleaned music data using python and google colab. Imported and prepared CSV files by dropping irrelevant columns and handling null values.
 - Extracted insights from music data. Performed data analysis using queries to extract valuable information from a music dataset.
 - Transformed and integrated data Merged and prepared CSV files for further advanced analysis.
@@ -41,7 +40,6 @@ Email:<KComaduran3@outlook.com>
 - Developed and executed concise yet powerful scripts on the Alabama supercomputer.
 - Actively engaged in daily scrum meetings where I participated with my insights, provided updates to the team's progress and goals, and presented data.
 
-
 ## Project
 **Machine Learning Project ( June 2024  – Present)**
 - Developing an ARIMA time series model to forecast Monthly temperature (Seasonal Differencing, Autoregressive, Mean Absolute Error and Mean Squared Error) for Climate/Weather. Overcame challenges in handling seasonality and autocorrelation through advanced data preprocessing and model tuning. 
@@ -51,14 +49,17 @@ Email:<KComaduran3@outlook.com>
 
 
 **Project: United States Petroleum Import & Export Report  (Sept 2023 – Oct 2023)**
-- Using Power BI, researched the Texas crude oil production and the United States' top crude oil imports and exports for fiscal year 2022.
-- Data collected from multiple government sources to analyze trends.  
+
+- Researched the Texas crude oil production and the United States' top crude oil imports and exports for fiscal year 2022.
+- Data collected from multiple government sources to analyze trends.
+- Assess the report to identify any significant trends or changes over time.
+
 
 **Project: Telsa Sales Report     (October 2023)**
 - Using Power BI, generated an insightful report on Electric Vehicles (EVs) and Plug-in Hybrids.
 - Categorize EVs and Plug-in Hybrids to visually present both their individual sales volumes and overall sales figures using sales data spanning from 2011 to 2019.
 
-**Project:  Excel Report  ( November 2022)**			
+**Project:  Excel Report      ( November 2022)**			
 - Crafted drill down reports on weather data using Pivot tables, started KPI,  leveraging sorting, grouping, filtering, and slicing techniques to distill complex data. Designed accompanying charts and diagrams to visually communicate trends and patterns in data.
 
 **Project : Team Member  : Sentio AI Stocks Sentiment Analysis      (Jan 2022 – May 2022)** 

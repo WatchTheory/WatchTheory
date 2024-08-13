@@ -1,7 +1,6 @@
 title: Kevin Comaduran
 logo: images/head_cover image.jpg
-#description: Aspiring ML Engineer, Data Scientist or Data Analysts
-#description : text below image
+description: Motivated individual seeking opportunities in machine learning engineering, data science, or data analytics.
 remote_theme: pages-themes/minimal@v0.2.0
 plugins: 
  - jekll-remote-theme

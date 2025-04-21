@@ -53,14 +53,14 @@ Student Intern @ Alabama A&M ( May 2022- July 2022) <br>
 - Strengthened Python programming skills with a focus on TensorFlow library usage, object-oriented design, and data manipulation.
 
 
-**Data Analyst Project - United States Crude Oil Import & Export Report  Sep 2023 - Oct 2023**
+**Data Analyst Project - United States Crude Oil Import & Export Report  Sep 2023 - Oct 2023** [Link](https://github.com/WatchTheory/Crude-Oil-Report)
 - Demonstrated reporting on research United States' top crude oil imports and exports for fiscal year 2022 self-learning project, for reporting on U.S Top Exports of Oil and Gas, turning raw data to identifying meaningful information, for strategic planning
 - Create professional, visually appealing market trends, including charts, graphs, and infographics, from multiple source systems into data visualization report (Power BI).
 - Detail oriented with excellent organizational, reporting solution, analytical, and problem-solving skills using DAX calculations and data modeling.
 - Assessed the report to identify significant trends or changes over time, contributing to a comprehensive understanding of market.
 
-**Data Analyst Project - U.S Sales of EVs & PHEV**
-[Link](https://github.com/WatchTheory/U.S-Sales-of-EVs-PHEV)
+**Data Analyst Project - U.S Sales of EVs & PHEV** [Link](https://github.com/WatchTheory/U.S-Sales-of-EVs-PHEV)
+
 
 
  **~~Excel Project - Self Project (Sept 2022 - Oct 2022)~~** 

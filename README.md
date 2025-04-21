@@ -12,7 +12,7 @@
 - Coursea - Excel Basics For Data Analysis  Sept 2024
 
 ## Work Experience
-Student Intern @ Alabama A&M ( May 2022- July 2022) <br>
+Student Intern @ Alabama A&M sponsored by the Department of Defence ( May 2022- July 2022) <br>
 -	Enhanced a Feed Forward Neural Network (FFNN) model using Google Colab, Natural Language Processing, and Python to accurately identify numbers and physical objects with TensorFlow, Matplotlib, and NumPy backed by the NIST database, demonstrating expertise in data analysis and model tuning. <br>
 - Presented findings  analysis from an articulate report on Artificial Intelligence during a briefing to U.S. Department of Defense officials, and prepared client-facing presentations and materials that effectively using communication skills to breakdown complex data in an easy-to-understand format.<br>
 - Demonstrated leadership qualities by leading and organizing a group of ten undergraduate students during this summer program to build and maintain relationships with Director of Project, group members and all other group members. <br>

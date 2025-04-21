@@ -23,7 +23,7 @@ Student Intern @ Alabama A&M ( May 2022- July 2022) <br>
 ## Project
 
 **Machine Learning Project - Long Term Short Term Model [In Progress]** <br>
-**Machine Learning Project - Simple Pytorch Learning Model April 2025**
+**Machine Learning Project - Simple Pytorch Learning Model April 2025** [Link](https://github.com/WatchTheory/Pytorch-model)
 - Built a fully functional machine learning model from scratch using PyTorch’s nn.Linear layer, demonstrating an understanding of model architecture, tensors, and data flow in neural networks.
 - Designed and implemented a custom training loop including forward propagation, loss calculation with nn.MSELoss, backpropagation, and weight updates with torch.optim.SGD.
 - Applied Mean Squared Error (MSE) loss function to measure model performance and optimize model parameters over multiple epochs to minimize prediction errors.
@@ -32,20 +32,20 @@ Student Intern @ Alabama A&M ( May 2022- July 2022) <br>
 - Explained complex machine learning concepts (loss functions, optimizers, training loops) through a storytelling analogy ("Bob the Model and Coach Smith") to make foundational AI/ML principles more accessible to beginners.
 - Documented the project with a detailed README explaining the project goals, learning outcomes, model architecture, and future improvement plans, ensuring clarity for technical and non-technical audiences.
 
-**Machine Learning Project - Simple Learning Forecasting Model April 2025**
-- Built a supervised machine learning model to forecast daily maximum temperatures using historical weather data.
+**Machine Learning Project - Simple Learning Regression Model April 2025** [Link](https://github.com/WatchTheory/Simple-TR-Model)
+- Built a supervised machine learning model to forecast daily maximum temperatures using historical weather data from Kaggle.
 - Applied time series feature engineering techniques, including lag features, rolling averages, and seasonality transformations.
-- Trained and evaluated a Linear Regression forecasting model, achieving an RMSE (Root Mean Squared Error) **as low as 1.61 on test data.**
+- Trained and evaluated a **Stochastic Gradient Descent(SGD)** forecasting model, achieving an RMSE (Root Mean Squared Error) **as low as 1.61 on test data.**
 - Conducted rigorous model validation using Time Series Cross-Validation, reporting an **average RMSE of 3.13 across multiple folds.**
 - Engineered seasonal features (day-of-year sine/cosine cycles) to improve model accuracy and capture periodic patterns.
 - Developed and visualized forecast vs actual temperature trends using matplotlib, ensuring clear model performance interpretation.
 - Gained hands-on experience with key machine learning libraries such as scikit-learn, pandas, numpy, and matplotlib.
 - Demonstrated strong understanding of time-series forecasting challenges, including data leakage prevention (no shuffling) and temporal dependencies.
 
-**Machine Learning Project - Simple Tensor Model April 2025**
+**Machine Learning Project - Simple Tensor Model April 2025** [Link](https://github.com/WatchTheory/Simple-LR-Model)
 - Designed and implemented a simple TensorFlow model to perform supervised learning tasks, demonstrating strong understanding of tensor operations and data flow within neural networks.
 - Applied core mathematical principles to understand and manipulate tensors, activation functions, and gradient-based optimization techniques during model training.
-- Built and trained a basic model architecture from scratch, including defining input/output layers, weights, and bias initialization without reliance on pre-built templates.
+- **Built and trained a basic model** architecture from scratch, including defining input/output layers, weights, and bias initialization without reliance on pre-built templates.
 - Optimized model performance by analyzing training loss behavior and understanding gradient descent convergence through hands-on experimentation.
 - Demonstrated deep understanding of foundational machine learning concepts by translating mathematical formulas into functional TensorFlow code.
 - Improved technical problem-solving skills by debugging tensor operations, dimensionality errors, and learning rate tuning challenges.

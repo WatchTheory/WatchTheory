@@ -29,7 +29,7 @@ Student Intern @ Alabama A&M sponsored by the Department of Defence ( May 2022- 
 - Applied Mean Squared Error (MSE) loss function to measure model performance and optimize model parameters over multiple epochs to minimize prediction errors.
 - Demonstrated understanding of optimizers and gradient descent by manually updating model parameters based on calculated gradients to improve model accuracy over time.
 - **Reduced model loss by over 80% over the training period**, showing successful learning and convergence through iterative optimization.
-- Explained complex machine learning concepts (loss functions, optimizers, training loops) through a storytelling analogy ("Bob the Model and Coach Smith") to make foundational AI/ML principles more accessible to beginners.
+- **Explained complex machine learning concepts (loss functions, optimizers, training loops) through a storytelling** analogy ("Bob the Model and Coach Smith") to make foundational AI/ML principles more accessible to beginners.
 - Documented the project with a detailed README explaining the project goals, learning outcomes, model architecture, and future improvement plans, ensuring clarity for technical and non-technical audiences.
 
 **Machine Learning Project - Simple Learning Regression Model April 2025** [Link](https://github.com/WatchTheory/Simple-TR-Model)

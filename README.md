@@ -8,8 +8,11 @@
 ## Certifications 
 - IBM Data Analysts Professional Certification	Sep 2024 - March 2025
 - Microsoft Power BI Data Analysis Associate Certification: March 2024
+- Coursea - IBM Data Analyst Capstone Project March 2025
 - Coursea - Python for Data Science, AI & Development Oct 2024
+- Coursea - Data Visualization & Dashboard with Excel and Cognos
 - Coursea - Excel Basics For Data Analysis  Sept 2024
+- Coursea - Introduction to Data Analytics Sept 2024
 
 ## Work Experience
 Student Intern @ Alabama A&M sponsored by the Department of Defence ( May 2022- July 2022) <br>

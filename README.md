@@ -1,28 +1,3 @@
-
-# Portfolio 
-
-## Education 
-- B.S  Computer Information Systems | University of Houston - Victoria (May 2022) <br>
-- A.S  Liberal Arts | LoneStar College System (Dec 2020)
-
-## Certifications 
-- IBM Data Analysts Professional Certification	Sep 2024 - March 2025
-- Microsoft Power BI Data Analysis Associate Certification: March 2024
-- Coursea - IBM Data Analyst Capstone Project March 2025
-- Coursea - Python for Data Science, AI & Development Oct 2024
-- Coursea - Data Visualization & Dashboard with Excel and Cognos
-- Coursea - Excel Basics For Data Analysis  Sept 2024
-- Coursea - Introduction to Data Analytics Sept 2024
-
-## Work Experience
-Student Intern @ Alabama A&M sponsored by the Department of Defence ( May 2022- July 2022) <br>
--	Enhanced a Feed Forward Neural Network (FFNN) model using Google Colab, Natural Language Processing, and Python to accurately identify numbers and physical objects with TensorFlow, Matplotlib, and NumPy backed by the NIST database, demonstrating expertise in data analysis and model tuning. <br>
-- Presented findings  analysis from an articulate report on Artificial Intelligence during a briefing to U.S. Department of Defense officials, and prepared client-facing presentations and materials that effectively using communication skills to breakdown complex data in an easy-to-understand format.<br>
-- Demonstrated leadership qualities by leading and organizing a group of ten undergraduate students during this summer program to build and maintain relationships with Director of Project, group members and all other group members. <br>
--	Independently and effectively  managing tasks, priorities, and resources to achieve objectives efficiently, while learning machine learning concepts such as object detection and classification.<br>
--	Contributed to daily Scrum ceremonies  by delivering insights, updating team progress and goals, and presenting data to enhance collaboration and performance.
-
-
 ## Project
 
 **Machine Learning Project - Long Term Short Term Model [In Progress]** <br>

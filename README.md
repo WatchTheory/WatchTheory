@@ -1,34 +1,81 @@
 
 # Hi 👋, I'm Kevin C
 
-### Data Analysts
+**Data Analyst | Machine Learning Engineer | Data Scientist**
 
-- 🔭 I'm currently working on **Capstone Flight Analysis Project**
+---
 
-- 🌱 I'm currently learning **AI/ Machine Learning | Linux Temerial**
+### 👋 About Me
+Data-driven problem solver with a strong foundation in **Python, SQL, and Machine Learning**. I build end-to-end data pipelines, perform exploratory analysis, and deploy predictive models that turn raw data into actionable insights. Passionate about leveraging AI to solve real-world business problems — currently polishing production-ready projects in flight analytics and intelligent resume-job matching.
 
-- 💬 Ask me about **just ask.**
+When I’m not coding, you’ll find me exploring new datasets on [Kaggle](https://www.kaggle.com) or on [data.gov](https://data.gov) turning data stories into compelling visualizations.
 
-- 📫 How to reach me **KComaduran3@Outlook.com**
+---
 
-- ⚡ Fun fact **Coffee, music and keep moving along**
+## Technical Skills 
 
-<!-- - 📝 I regularly write articles on **[https://watchtheory.github.io/WatchTheory/](https://watchtheory.github.io/WatchTheory/)** -->
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/WatchTheory" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="WatchTheory" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/swift" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=swift" alt="swift" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+**Machine Learning & Data Science**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
+
+**Databases & Tools**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+
+**Visualization**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-263238?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9ED9?logo=seaborn&logoColor=white)
+
+
+###  Featured Projects
+- **[Resume-Job Matching Pipeline](https://github.com/WatchTheory/resume-pipeline)** – End-to-end ML system using Hugging Face embeddings, SQLAlchemy, and MySQL to match resumes to job postings.
+- **[International Flight Passenger Analysis](https://github.com/WatchTheory/Flight-Analysis)** – Time-series analysis & forecasting of global air travel trends (2015–2025).
+- **[Wine Quality Recommendation System](https://github.com/WatchTheory/Wine-Classifcation)** – Multi-class classification models (Logistic Regression + Random Forest) with 92%+ accuracy.
+
+👉 Check my **[pinned repositories](https://github.com/WatchTheory?tab=repositories)** for more!
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WatchTheory&" alt="WatchTheory" /></p>
+
+<p><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WatchTheory&show_icons=true&theme=radical" ></image-card></p>
+
+---
+
+### 🌱 Currently Learning & Building
+- Continuing to Advancing **MLOps** practices (Docker, CI/CD with GitHub Actions)
+- Working on **Data Analysts** project such as  International Flight Analysis
+- Working on **Large Language Models** and Resume matching pipelines
+
+
+---
+
+### 📫 Let's Connect
+- **LinkedIn** → [Kevin Comaduran](https://www.linkedin.com/in/kevincomaduran/)
+- **Kaggle** → [tombcase](https://www.kaggle.com/tombcase)
+- **Personal Portfolio** → [watchtheory.github.io](https://watchtheory.github.io/WatchTheory/)
+- **Email** → KComaduran3@Outlook.com
+
+---
+
+**Always open to interesting data challenges, collaborations, or coffee chats about ML!** ☕
+
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WatchTheory&show_icons=true&locale=en&layout=compact" alt="WatchTheory" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WatchTheory&show_icons=true&locale=en" alt="WatchTheory" /></p> -->
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WatchTheory&" alt="WatchTheory" /></p> -->
+
 
 
 

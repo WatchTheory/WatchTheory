@@ -10,17 +10,18 @@ Data-driven problem solver with a strong foundation in **Python, SQL, and Machin
 
 When I’m not coding, you’ll find me exploring new datasets on [Kaggle](https://www.kaggle.com) or on [data.gov](https://data.gov) turning data stories into compelling visualizations.
 
----
+
 
 ## Technical Skills 
 
+**Languages & Frameworks**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
 
-**Machine Learning & Data Science**
+**Machine Learning & Data Science**<br>
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)

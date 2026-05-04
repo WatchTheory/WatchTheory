@@ -1,7 +1,8 @@
 
 # Hi 👋, I'm Kevin C
 
-**Data Analyst | Machine Learning Engineer | Data Scientist**
+<!-- **Data Analyst | Machine Learning Engineer | Data Scientist** -->
+**Data Analyst / ML Engineer | Python, Pandas, Scikit-learn, PyTorch** | Building production-ready data pipelines and predictive models. **Ex-DOD intern**. Open to full-time roles in data science & analytics. 
 
 ---
 

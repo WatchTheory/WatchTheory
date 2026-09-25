@@ -1,9 +1,7 @@
 
 # Hi 👋, I'm Kevin
 
-<!-- **Data Analyst | Machine Learning Engineer | Data Scientist** -->
 Data Analyst | Business Intelligence | Applied Machine Learning
-<!--**Data Analyst / ML Engineer | Python, Pandas, Scikit-learn, PyTorch** | Building production-ready data pipelines and predictive models. **Ex-DOD intern**. Open to full-time roles in data science & analytics. -->
 
 ---
 
@@ -15,26 +13,21 @@ I build data pipelines, investigate data quality problems, develop interactive d
 Previously, participated in Department of Defense-sponsored AI internship, working with neural networks and presenting technical findings.
 
 
-
-
-
-
-
 ## Technical Skills 
 
-**Languages & Frameworks**<br>
+**Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
-**Machine Learning & Data Science**<br>
+**Machine Learning & Data Science**
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-**Databases & Tools**<br>
+**Databases & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -44,13 +37,13 @@ Previously, participated in Department of Defense-sponsored AI internship, worki
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) 
 
-**Visualization**<br>
+**Visualization**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-263238?logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C9ED9?logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) 
 
-**Developers Tools**<br>
+**Developers Tools**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=white)
 

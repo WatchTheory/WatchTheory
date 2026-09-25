@@ -1,15 +1,22 @@
 
-# Hi 👋, I'm Kevin C
+# Hi 👋, I'm Kevin
 
 <!-- **Data Analyst | Machine Learning Engineer | Data Scientist** -->
-**Data Analyst / ML Engineer | Python, Pandas, Scikit-learn, PyTorch** | Building production-ready data pipelines and predictive models. **Ex-DOD intern**. Open to full-time roles in data science & analytics. 
+Data Analyst | Business Intelligence | Applied Machine Learning
+<!--**Data Analyst / ML Engineer | Python, Pandas, Scikit-learn, PyTorch** | Building production-ready data pipelines and predictive models. **Ex-DOD intern**. Open to full-time roles in data science & analytics. -->
 
 ---
 
-### 👋 About Me
-Data-driven problem solver with a strong foundation in **Python, SQL, and Machine Learning**. I build end-to-end data pipelines, perform exploratory analysis, and deploy predictive models that turn raw data into actionable insights. Passionate about leveraging AI to solve real-world business problems — currently polishing production-ready projects in flight analytics and intelligent resume-job matching.
+### About Me
+Microsoft Certified Power BI Data Analyst Associate (PL-300) with a background in Computer and Informaion Science and experience in Python, SQL, Power BI, R, and Machine Learning.
 
-When I’m not coding, you’ll find me exploring new datasets on [Kaggle](https://www.kaggle.com) or on [data.gov](https://data.gov) turning data stories into compelling visualizations.
+I build data pipelines, investigate data quality problems, develop interactive dashboards, and evaluate predictive models. My portfolio includes defense infrastructure analysis, airline passenger trends and ML projects.
+
+Previously, participated in Department of Defense-sponsored AI internship, working with neural networks and presenting technical findings.
+
+
+
+
 
 
 
@@ -35,13 +42,13 @@ When I’m not coding, you’ll find me exploring new datasets on [Kaggle](https
 ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) 
 
 **Visualization**<br>
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-263238?logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C9ED9?logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) 
 
 **Developers Tools**<br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white)
@@ -49,48 +56,40 @@ When I’m not coding, you’ll find me exploring new datasets on [Kaggle](https
 
 
 ###  Featured Projects
-- **[Resume-Job Matching Pipeline](https://github.com/WatchTheory/resume-pipeline)** – End-to-end ML system using Hugging Face embeddings, SQLAlchemy, and MySQL to match resumes to job postings.
-- **[International Flight Passenger Analysis](https://github.com/WatchTheory/Flight-Analysis)** – Time-series analysis & forecasting of global air travel trends (2015–2025).
-- **[Wine Quality Recommendation System](https://github.com/WatchTheory/Wine-Classifcation)** – Multi-class classification models (Logistic Regression + Random Forest) with 92%+ accuracy.
+### U.S Defense Infrastructure Investment in the Philippines (In Development)
 
+Analyzing public reported defense infrastructure investments, including funding allocations, locations, and project status. Developed a structured dataset that distinguishes program-wide announcements from site-level allocations to reduce the risk of double counting. **[U.S. Defense Infrastructure Investment](https://github.com/WatchTheory/us-defense-investment)** 
+
+### International Flight Analysis (In Development)
+Investigating international passenger traffic and recovery following COVID-19. Comparing historical travel patterns and developing a foundation for passenger-demand forecasting. **[International Flight Analysis](https://github.com/WatchTheory/Flight-Analysis)** 
+
+### Department of Defense AI Internship
+Developed and evaluated neural-network models during a Department of Defense sponsored AI internship. Worked with National Institute of Standards and Technology (NIST) image classification data, data preprocessing, model evaluation and TensorFlow workflows while documenting results and presenting technical findings.  **[Defense AI Internship](https://github.com/WatchTheory/D.O.D-Nerual-Network)** 
+
+### Netflix Tableau Dashboard
+
+Analyzed Netflix content data through an interactive Tableau dashboard to indentify patterns across countries, genres and content ratings. Developed geographic and categorical visualizations that allow users to explore distribution and view-content trends. **[Netflix Tableau Dashboard](https://github.com/WatchTheory/Netflix-Analysis)** 
 
 
 👉 Check my **[pinned repositories](https://github.com/WatchTheory?tab=repositories)** for more!
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WatchTheory&" alt="WatchTheory" /></p>
 
-<p><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WatchTheory&show_icons=true&theme=radical" ></image-card></p>
+
+<!--<p><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WatchTheory&show_icons=true&theme=radical" ></image-card></p>-->
 
 ---
 
-### 🌱 Currently Learning & Building
-- Continuing to Advancing **MLOps** practices (Docker, CI/CD with GitHub Actions)
-- Working on **Data Analysts** project such as  International Flight Analysis
-- Working on **Large Language Models** and Resume matching pipelines
 
-
----
 
 ### 📫 Let's Connect
 - **LinkedIn** → [Kevin Comaduran](https://www.linkedin.com/in/kevincomaduran/)
-- **Kaggle** → [tombcase](https://www.kaggle.com/tombcase)
 - **Personal Portfolio** → [watchtheory.github.io](https://watchtheory.github.io/WatchTheory/)
 - **Email** → KComaduran3@Outlook.com
 
 ---
 
-**Always open to interesting data challenges, collaborations, or coffee chats about ML!** ☕
-
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WatchTheory&show_icons=true&locale=en&layout=compact" alt="WatchTheory" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WatchTheory&show_icons=true&locale=en" alt="WatchTheory" /></p> -->
-
-
-
-
-
-
-
-
-

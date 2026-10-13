@@ -10,7 +10,7 @@ Microsoft Certified Power BI Data Analyst Associate (PL-300) with a background i
 
 I build data pipelines, investigate data quality problems, develop interactive dashboards, and evaluate predictive models. My portfolio includes defense infrastructure analysis, airline passenger trends and ML projects.
 
-Previously, participated in Department of Defense-sponsored AI internship, working with neural networks and presenting technical findings. Also interested in Quatuam research.
+Previously, participated in Department of Defense-sponsored AI internship, working with neural networks and presenting technical findings. Also interested in Quantuam research.
 
 
 ## Technical Skills 

@@ -10,7 +10,7 @@ Microsoft Certified Power BI Data Analyst Associate (PL-300) with a background i
 
 I build data pipelines, investigate data quality problems, develop interactive dashboards, and evaluate predictive models. My portfolio includes defense infrastructure analysis, airline passenger trends and ML projects.
 
-Previously, participated in Department of Defense-sponsored AI internship, working with neural networks and presenting technical findings.
+Previously, participated in Department of Defense-sponsored AI internship, working with neural networks and presenting technical findings. Also interested in Quatuam research.
 
 
 ## Technical Skills 
@@ -37,6 +37,7 @@ Previously, participated in Department of Defense-sponsored AI internship, worki
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) 
 
+
 **Visualization**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-263238?logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C9ED9?logo=seaborn&logoColor=white)
@@ -46,6 +47,7 @@ Previously, participated in Department of Defense-sponsored AI internship, worki
 **Developers Tools**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=white)
+
 
 
 ###  Featured Projects

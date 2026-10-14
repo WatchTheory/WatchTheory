@@ -10,7 +10,7 @@ Microsoft Certified Power BI Data Analyst Associate (PL-300) with a background i
 
 I build data pipelines, investigate data quality problems, develop interactive dashboards, and evaluate predictive models. My portfolio includes defense infrastructure analysis, airline passenger trends and ML projects.
 
-Previously, participated in Department of Defense-sponsored AI internship, working with neural networks and presenting technical findings. Also interested in Quantum research.
+Previously, participated in Department of Defense-sponsored AI internship, working with neural networks and presenting technical findings; also learning IBM Quantum Qiskit language
 
 
 ## Technical Skills 
@@ -18,14 +18,23 @@ Previously, participated in Department of Defense-sponsored AI internship, worki
 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)
+![Qiskit](https://img.shields.io/badge/IBM_Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5391FE?logo=powershell-white&logoColor=fff)
+
 
 **Machine Learning & Data Science**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-263238?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9ED9?logo=seaborn&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
+
 
 **Databases & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -36,22 +45,40 @@ Previously, participated in Department of Defense-sponsored AI internship, worki
 ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+
+
+**Package Mangers**
+![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff)
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
+![Chocolatey](https://img.shields.io/badge/Chocolatey-80B5E3?logo=chocolatey&logoColor=fff)
+![uv](https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=white)
 
 
 **Visualization**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-263238?logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C9ED9?logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) 
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)
+![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)
 
 **Developers Tools**
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?logo=visual-studio-code&logoColor=white)
-![uv](https://img.shields.io/badge/uv-DE5FE9?logo=uv&logoColor=white)
+![Helix](https://img.shields.io/badge/Helix-706bc8?logo=helix&logoColor=fff)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)
+![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)
+![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)
+
+**Terminal**
+![Ghostty](https://custom-icon-badges.demolab.com/badge/Ghostty-0000ff?logo=ghostty_term)
+![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)
+![GNOME Terminal](https://img.shields.io/badge/GNOME%20Terminal-241F31?logo=gnometerminal&logoColor=fff)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)
 
 
 
 ###  Featured Projects
-### U.S Defense Infrastructure Investment in the Philippines (In Development)
+### U.S Defense Infrastructure Investment in the Philippines 
 
 Analyzing public reported defense infrastructure investments, including funding allocations, locations, and project status. Developed a structured dataset that distinguishes program-wide announcements from site-level allocations to reduce the risk of double counting. **[U.S. Defense Infrastructure Investment](https://github.com/WatchTheory/us-defense-investment)** 
 
@@ -71,7 +98,7 @@ Analyzed Netflix content data through an interactive Tableau dashboard to indent
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WatchTheory&" alt="WatchTheory" /></p>
 
 
-<!--<p><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WatchTheory&show_icons=true&theme=radical" ></image-card></p>-->
+<p><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WatchTheory&show_icons=true&theme=radical" ></image-card></p>
 
 ---
 

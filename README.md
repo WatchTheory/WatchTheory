@@ -1,16 +1,14 @@
-
 # Hi 👋, I'm Kevin
 
-Data Analyst | Business Intelligence | Applied Machine Learning
+Data Analyst | Business Intelligence | Applied Machine Learning | Researcher
 
 ---
-
 ### About Me
 Microsoft Certified Power BI Data Analyst Associate (PL-300) with a background in Computer and Informaion Science and experience in Python, SQL, Power BI, R, and Machine Learning.
 
 I build data pipelines, investigate data quality problems, develop interactive dashboards, and evaluate predictive models. My portfolio includes defense infrastructure analysis, airline passenger trends and ML projects.
 
-Previously, participated in Department of Defense-sponsored AI internship, working with neural networks and presenting technical findings; also learning IBM Quantum Qiskit language.
+Previously, participated in Department of Defense-sponsored AI internship, working with neural networks and presenting technical findings.
 
 
 ## Technical Skills 
@@ -98,15 +96,14 @@ Analyzed Netflix content data through an interactive Tableau dashboard to indent
 
 👉 Check my **[pinned repositories](https://github.com/WatchTheory?tab=repositories)** for more!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WatchTheory&" alt="WatchTheory" /></p>
 
 <!--
 <p><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=WatchTheory&show_icons=true&theme=radical" ></image-card></p>-->
 
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WatchTheory&show_icons=true&locale=en&layout=compact" alt="WatchTheory" /></p> -->
+ <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WatchTheory&show_icons=true&locale=en&layout=compact" alt="WatchTheory" /></p> -->
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WatchTheory&show_icons=true&locale=en" alt="WatchTheory" /></p> -->
+ <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WatchTheory&show_icons=true&locale=en" alt="WatchTheory" /></p> -->
 
 <!-- cool-readme:start -->
 <p align="center">
@@ -126,3 +123,5 @@ Analyzed Netflix content data through an interactive Tableau dashboard to indent
 </picture>
 </p>
 <!-- cool-readme:end -->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=WatchTheory&" alt="WatchTheory" /></p>

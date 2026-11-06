@@ -10,7 +10,7 @@ Microsoft Certified Power BI Data Analyst Associate (PL-300) with a background i
 
 I build data pipelines, investigate data quality problems, develop interactive dashboards, and evaluate predictive models. My portfolio includes defense infrastructure analysis, airline passenger trends and ML projects.
 
-Previously, participated in Department of Defense-sponsored AI internship, working with neural networks and presenting technical findings; also learning IBM Quantum Qiskit language
+Previously, participated in Department of Defense-sponsored AI internship, working with neural networks and presenting technical findings; also learning IBM Quantum Qiskit language.
 
 
 ## Technical Skills 
@@ -76,6 +76,9 @@ Previously, participated in Department of Defense-sponsored AI internship, worki
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?logo=tmux&logoColor=fff)
 
 
+### Let's Connect
+- **LinkedIn** → [Kevin Comaduran](https://www.linkedin.com/in/kevincomaduran/)  **Personal Portfolio** → [watchtheory.github.io](https://watchtheory.github.io/WatchTheory/)  
+
 
 ###  Featured Projects
 ### U.S Defense Infrastructure Investment in the Philippines 
@@ -104,10 +107,6 @@ Analyzed Netflix content data through an interactive Tableau dashboard to indent
 
 
 
-### 📫 Let's Connect
-- **LinkedIn** → [Kevin Comaduran](https://www.linkedin.com/in/kevincomaduran/)
-- **Personal Portfolio** → [watchtheory.github.io](https://watchtheory.github.io/WatchTheory/)
-- **Email** → KComaduran3@Outlook.com
 
 ---
 

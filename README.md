@@ -115,3 +115,22 @@ Analyzed Netflix content data through an interactive Tableau dashboard to indent
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=WatchTheory&show_icons=true&locale=en&layout=compact" alt="WatchTheory" /></p> -->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=WatchTheory&show_icons=true&locale=en" alt="WatchTheory" /></p> -->
+
+<!-- cool-readme:start -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WatchTheory/WatchTheory/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/WatchTheory/WatchTheory/cards/summary-light.svg" width="450" alt="GitHub stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WatchTheory/WatchTheory/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/WatchTheory/WatchTheory/cards/languages-light.svg" width="350" alt="Most used languages">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WatchTheory/WatchTheory/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/WatchTheory/WatchTheory/cards/weekly-light.svg" width="350" alt="Weekly rhythm">
+</picture>
+</p>
+<!-- cool-readme:end -->

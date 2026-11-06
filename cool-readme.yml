@@ -1,0 +1,7 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: WatchTheory
+cards: [summary, languages, weekly]
+style: classic
+include:
+  private: false
+  orgs: true

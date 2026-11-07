@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="195" viewBox="0 0 350 195" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Weekly rhythm</title>
+<desc id="desc">Contributions per weekday over the last 12 months (469 in total): Mon 59, Tue 113, Wed 62, Thu 74, Fri 68, Sat 56, Sun 37. Busiest: Tue.</desc>
+<style>
+  text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif; fill: #f0f6fc; }
+  .label { font-size: 14px; }
+  .value { font-size: 14px; font-weight: 600; font-variant-numeric: tabular-nums; }
+  .small { font-size: 12px; }
+  .col { font-size: 11px; fill: #7d8590; letter-spacing: 0.04em; }
+  .secondary { fill: #9198a1; }
+  .muted { fill: #7d8590; }
+  .icon { fill: #9198a1; }
+  .fade { animation: fade 0.45s ease-out both; }
+  .grow { transform-box: fill-box; transform-origin: left center; animation: grow 0.9s cubic-bezier(.2,.7,.2,1) 0.15s both; }
+  .ring { animation: ring 1.2s cubic-bezier(.2,.7,.2,1) 0.2s both; }
+  .pop { transform-box: fill-box; transform-origin: center; animation: pop 0.4s ease-out 0.5s both; }
+  @keyframes fade { from { opacity: 0; transform: translateY(4px); } }
+  @keyframes grow { from { transform: scaleX(0); } }
+  @keyframes pop { from { opacity: 0; transform: scale(0.6); } }
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  .rise { transform-box: fill-box; transform-origin: bottom; animation: rise 0.7s cubic-bezier(.2,.7,.2,1) both; }
+  @keyframes rise { from { transform: scaleY(0); } }
+</style>
+<rect x="0.5" y="0.5" width="349" height="194" rx="6" fill="none" stroke="none"/>
+<text x="20" y="28" class="col">WEEKLY RHYTHM</text>
+<line x1="20" y1="166.5" x2="330" y2="166.5" stroke="#3d444d"/>
+<path class="rise" style="animation-delay: 200ms" d="M30.142857142857142 166V111.52212389380531Q30.142857142857142 107.52212389380531 34.14285714285714 107.52212389380531H50.14285714285714Q54.14285714285714 107.52212389380531 54.14285714285714 111.52212389380531V166Z" fill="#26a641"/><text x="42.14285714285714" y="184" text-anchor="middle" class="small secondary">Mon</text>
+<path class="rise" style="animation-delay: 260ms" d="M74.42857142857142 166V58Q74.42857142857142 54 78.42857142857142 54H94.42857142857142Q98.42857142857142 54 98.42857142857142 58V166Z" fill="#39d353"/><text x="86.42857142857142" y="184" text-anchor="middle" class="small secondary">Tue</text>
+<path class="rise" style="animation-delay: 320ms" d="M118.71428571428571 166V108.54867256637169Q118.71428571428571 104.54867256637169 122.71428571428571 104.54867256637169H138.71428571428572Q142.71428571428572 104.54867256637169 142.71428571428572 108.54867256637169V166Z" fill="#26a641"/><text x="130.71428571428572" y="184" text-anchor="middle" class="small secondary">Wed</text>
+<path class="rise" style="animation-delay: 380ms" d="M163 166V96.65486725663716Q163 92.65486725663716 167 92.65486725663716H183Q187 92.65486725663716 187 96.65486725663716V166Z" fill="#26a641"/><text x="175" y="184" text-anchor="middle" class="small secondary">Thu</text>
+<path class="rise" style="animation-delay: 440ms" d="M207.28571428571428 166V102.60176991150442Q207.28571428571428 98.60176991150442 211.28571428571428 98.60176991150442H227.28571428571428Q231.28571428571428 98.60176991150442 231.28571428571428 102.60176991150442V166Z" fill="#26a641"/><text x="219.28571428571428" y="184" text-anchor="middle" class="small secondary">Fri</text>
+<path class="rise" style="animation-delay: 500ms" d="M251.57142857142856 166V114.49557522123894Q251.57142857142856 110.49557522123894 255.57142857142856 110.49557522123894H271.57142857142856Q275.57142857142856 110.49557522123894 275.57142857142856 114.49557522123894V166Z" fill="#006d32"/><text x="263.57142857142856" y="184" text-anchor="middle" class="small secondary">Sat</text>
+<path class="rise" style="animation-delay: 560ms" d="M295.8571428571429 166V133.32743362831857Q295.8571428571429 129.32743362831857 299.8571428571429 129.32743362831857H315.8571428571429Q319.8571428571429 129.32743362831857 319.8571428571429 133.32743362831857V166Z" fill="#006d32"/><text x="307.8571428571429" y="184" text-anchor="middle" class="small secondary">Sun</text>
+</svg>
